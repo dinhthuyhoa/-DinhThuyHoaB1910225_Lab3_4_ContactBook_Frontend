@@ -31,8 +31,11 @@ export default {
                 type="button"
                 @click="submit"
             >
-                <i class="fa fa-paper-plane"></i> Tìm kiếm
+            <i class="fa fa-paper-plane"></i> Tìm kiếm
             </button>
         </div>
     </div>
 </template>
+<style lang="">
+    
+</style>
